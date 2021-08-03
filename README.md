@@ -1,3 +1,5 @@
+[![Build Status](https://www.travis-ci.com/Bish-Soli/shaysa.svg?branch=main)](https://www.travis-ci.com/Bish-Soli/shaysa)
+
 # TDD with RSpec
 
 In this assignment you will use a combination of Acceptance and
